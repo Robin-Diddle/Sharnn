@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <zeros.out>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+  8   9   5  11  19   8   6   8  13  13  0.080519    100/100     Frequency
+ 11  11  11   4  11   4  14  11  10  13  0.334538    100/100     BlockFrequency
+  9   8  12   9  12  11   6   9  10  14  0.851383    100/100     CumulativeSums
+  9   6   9  11   6   9  17  13  10  10  0.401199     99/100     CumulativeSums
+  7  10  14  13  10   4   7  13  12  10  0.419021     99/100     Runs
+ 11  14  10   7   7  13   8  12  12   6  0.616305     99/100     LongestRun
+ 15  10  15  12   9   8   4   7   7  13  0.202268    100/100     ApproximateEntropy
+ 14  20   6   7  11  12   7   7   6  10  0.035174     97/100     Serial
+ 15  11   6  15  10   4  15   9   6   9  0.102526     98/100     Serial
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 96 for a
+sample size = 100 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
