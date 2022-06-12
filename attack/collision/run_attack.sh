@@ -1,0 +1,2 @@
+make
+./collision_attack
